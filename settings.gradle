@@ -1,0 +1,2 @@
+include ':app', ':foodsegment'
+rootProject.name='MultiserviceFoodSegment'
