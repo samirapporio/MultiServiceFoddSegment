@@ -20,8 +20,6 @@ public class MainActivityProductSegment extends BaseProductSegmentActivity imple
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-
-
         findViewById(R.id.test).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

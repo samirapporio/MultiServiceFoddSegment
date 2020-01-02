@@ -1,2 +1,2 @@
-include ':app', ':foodsegment'
+include ':app', ':productssegment'
 rootProject.name='MultiserviceFoodSegment'
